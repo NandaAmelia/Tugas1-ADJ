@@ -91,4 +91,3 @@ localhost:80
 ![12 3](https://user-images.githubusercontent.com/66839985/132997039-8047fe30-7917-489c-a3c7-0fed698e02df.png)
 ![12 4](https://user-images.githubusercontent.com/66839985/132997044-1d6628c3-d265-4f5e-a9de-f2836dc81956.png)
 
-https://www.panduancode.com/2020/03/cara-upload-file-ke-github-dengan-git-bash.html
